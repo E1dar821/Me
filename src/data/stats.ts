@@ -18,7 +18,7 @@ export const stats: Statistic[] = [
   },
   {
     id: 4,
-    value: '3+',
+    value: '30+',
     label: 'Happy Clients'
   }
 ];
